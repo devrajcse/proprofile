@@ -1,0 +1,27 @@
+#contactpage
+{
+   background-image: url("1.jpeg");
+   background-size: cover;
+   color: white ;
+   padding: 150px;
+
+font-size: 30px;
+
+font-weight: 700;
+font-family: cursive;
+
+
+}
+*
+{
+     /* padding: 15px; */
+     margin: 0%; 
+     
+     text-align: center; 
+    
+    
+}
+/*input{
+    width: 400px;
+     height: 30px;
+  }*/

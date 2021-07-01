@@ -1,0 +1,102 @@
+#home
+{
+    /* background-color: rgb(123, 237, 159); */
+    background-image: linear-gradient(270deg, rgba(72, 255, 0, 0.438) 20%,  rgba(0, 255, 200, 0.911) 100%);
+    margin: 0px 0px 0px
+}
+.home0
+{
+    background-image: linear-gradient(270deg, rgba(0, 174, 255, 0.76) 20%,  rgba(166, 255, 0, 0.61) 100%);
+
+}
+
+.home1
+{
+
+    padding: 5px;
+}
+hr {
+    border-style: dotted none none;
+border-color: forestgreen;
+border-width: 7px;;
+width: 5%;
+}
+.HOME2
+{
+    font-size: 50px;
+    text-shadow: gold 3px 3px 3px;
+}
+h2
+{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /* text-decoration: underline; */
+    margin-bottom: 3px;
+
+}
+/* h2:hover 
+{
+    background-color: yellow;
+    width: fit-content;
+
+
+}*/
+
+
+.btn
+{   margin-bottom: 0px;
+    margin-left: 0px;
+    cursor: pointer;
+    position: relative;
+    padding: 1rem 2rem;
+    border-radius: 3.75rem;
+    line-height: 2.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+
+    border: 2px solid black;
+    background-image: linear-gradient(270deg, rgba(0, 174, 255, 0.911) 20%,  rgba(94, 255, 0, 0.911) 100%);
+    box-shadow:  1rem 0 1.25rem 0 #52e4bb inset;
+    transition: 0.5s;
+   
+}
+.btn:hover
+{
+    background-image: linear-gradient(180deg, rgb(64, 255, 16) 100%, rgb(220, 20, 143) 50%);
+    border: 2px dotted rgb(166, 170, 182)
+}
+ .h21,.h22,.h23,.h24
+ {
+    color: #4834d4;
+    transition: 0.30s;
+
+
+
+
+    margin-bottom: 0px;
+    margin-left: 0px;
+    cursor: pointer;
+    position: relative;
+    padding: 5px 6px;
+    border-radius:  0rem 3.75rem 3.75rem 0rem;
+    line-height: 2rem;
+    font-size: 2rem;
+    font-weight: 6;
+  width: fit-content;
+    border: 0px solid black;
+    background-image: linear-gradient(270deg, rgba(0, 174, 255, 0.911) 20%,  rgba(94, 255, 0, 0.911) 100%);
+    box-shadow:  1rem 0 1.25rem 0 #52e4bb inset;
+    transition: 0.5s;
+    color: black;
+ }
+.h21:hover,.h22:hover,.h23:hover,.h24:hover
+{
+    /* color: #eb4d4b; */
+    background-image: linear-gradient(180deg, rgb(64, 255, 16)  100%, rgb(220, 20, 143) 50%);
+    border: 2px dotted rgb(166, 170, 182)
+    position: relative;
+    width: fit-content;
+    
+
+}
